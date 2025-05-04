@@ -1,0 +1,78 @@
+task1.js:61 productID:1
+task1.js:61 name:Redmi
+task1.js:61 description:Mobile Phone
+task1.js:61 price:14000
+task1.js:61 stock:7
+task1.js:61 category:Electronics
+task1.js:63 tags:Touch Screen,Internet Connectivity,Cameras
+task1.js:61 discount:[object Object]
+task1.js:61 productID:2
+task1.js:61 name:Dell
+task1.js:61 description:Laptop
+task1.js:61 price:50000
+task1.js:61 stock:10
+task1.js:61 category:Laptop
+task1.js:63 tags:8GB RAM,64 bit Operating System,no pen,No Touch Input
+task1.js:61 discount:[object Object]
+task1.js:61 productID:3
+task1.js:61 name:John Barrel
+task1.js:61 description:Television
+task1.js:61 price:14000
+task1.js:61 stock:15
+task1.js:61 category:Electronics
+task1.js:63 tags:19 inches,LED,No Touch Input
+task1.js:61 discount:[object Object]
+task1.js:75 Array(2)
+task1.js:80 ----Find Product by ID-----
+task1.js:86 Object
+task1.js:101 ---apply Discount to product 2----
+task1.js:61 productID:2
+task1.js:61 name:Dell
+task1.js:61 description:Laptop
+task1.js:61 price:49900
+task1.js:61 stock:10
+task1.js:61 category:Laptop
+task1.js:63 tags:8GB RAM,64 bit Operating System,no pen,No Touch Input
+task1.js:61 discount:[object Object]
+task1.js:119 -----Update Stock to product 3------
+task1.js:113 Updated Stock for the Product 3 to the stock 30 
+task1.js:61 productID:3
+task1.js:61 name:John Barrel
+task1.js:61 description:Television
+task1.js:61 price:14000
+task1.js:61 stock:30
+task1.js:61 category:Electronics
+task1.js:63 tags:19 inches,LED,No Touch Input
+task1.js:61 discount:[object Object]
+task1.js:140 -----Adding tag to Product---------
+task1.js:130 The tag "Inbuild Stylus" is added to the product "1" 
+task1.js:132 The tag "Cameras"is already exist...
+task1.js:61 productID:1
+task1.js:61 name:Redmi
+task1.js:61 description:Mobile Phone
+task1.js:61 price:14000
+task1.js:61 stock:7
+task1.js:61 category:Electronics
+task1.js:63 tags:Touch Screen,Internet Connectivity,Cameras,Inbuild Stylus
+task1.js:61 discount:[object Object]
+task1.js:157 ----Removed Products------
+task1.js:151 Product with ID "3" is Removed
+task1.js:159 After Removal of Product
+task1.js:61 productID:1
+task1.js:61 name:Redmi
+task1.js:61 description:Mobile Phone
+task1.js:61 price:14000
+task1.js:61 stock:7
+task1.js:61 category:Electronics
+task1.js:63 tags:Touch Screen,Internet Connectivity,Cameras,Inbuild Stylus
+task1.js:61 discount:[object Object]
+task1.js:61 productID:2
+task1.js:61 name:Dell
+task1.js:61 description:Laptop
+task1.js:61 price:49900
+task1.js:61 stock:10
+task1.js:61 category:Laptop
+task1.js:63 tags:8GB RAM,64 bit Operating System,no pen,No Touch Input
+task1.js:61 discount:[object Object]
+task1.js:172 ----Calculating the total Value------
+task1.js:169 The total Value: 597000
